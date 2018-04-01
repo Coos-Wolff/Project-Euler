@@ -8,7 +8,5 @@ public class ProjectEulerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjectEulerApplication.class, args);
-		Fibonacci fibonacci = new Fibonacci();
-		fibonacci.getFibonacci();
 	}
 }
